@@ -1,0 +1,22 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "## Table of Contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasmeetkaur1999/Ah-Spaceships-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasmeetkaur1999/Ah-Spaceships-/issues"
+  },
+  "homepage": "https://github.com/jasmeetkaur1999/Ah-Spaceships-#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
